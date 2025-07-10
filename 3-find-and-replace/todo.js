@@ -1,2 +1,7 @@
-// regex example icons (+ add ?react)
-// regex example groups (replace named import)
+/*
+ * Regex example icons (+ add ?react)
+ */
+
+/*
+ * Regex example groups (replace named import)
+ */

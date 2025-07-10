@@ -1,4 +1,15 @@
-// comments shortcuts (ctrl + /, ctrl + shift + a) - env example
-// ctrl + p (ctrl + shift + p)
-// snippets
-// Shift + Alt + arrow right x2 (everything in the quotes)
+/*
+ * Command palette (Ctrl + Shift + P) and Explorer (Ctrl + P)
+ */
+
+/*
+ * Comments shortcuts (Ctrl + /, Ctrl + Shift + A) - env example
+ */
+
+/*
+ * Snippets
+ */
+
+/*
+ * Shift + Alt + arrow right x2 (everything in the quotes)
+ */
