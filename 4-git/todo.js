@@ -1,0 +1,7 @@
+/*
+ * Git blame
+ */
+
+/*
+ * Git compare
+ */

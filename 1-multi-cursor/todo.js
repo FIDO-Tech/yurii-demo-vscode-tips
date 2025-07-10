@@ -37,7 +37,7 @@ const handleUpdate = () => {
 console.log({ mutate, myMutateResult });
 
 /*
- * Command palette (Ctrl + Shift + P) - examples of transform rem to px or vice versa
+ * Command palette (Ctrl + Shift + P) - "action per multi-cursor": example of transform rem to px or vice versa
  */
 
 const styles = styled.div`
