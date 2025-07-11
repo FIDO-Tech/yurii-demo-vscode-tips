@@ -1,18 +1,50 @@
 /*
- * Custom snippets
+ * Custom snippets ("Configure snippets" in Command palette)
  */
+
+// "Print to console JSON object": {
+//   "scope": "javascript,typescript,jsx",
+//   "prefix": "clgj",
+//   "body": [
+//     "console.log(JSON.stringify({$1}, null, 2));"
+//   ],
+//   "description": "Log output to console JSON stringified"
+// },
+// "Print to console with brackets": {
+//   "scope": "javascript,typescript,jsx",
+//   "prefix": "clgb",
+//   "body": [
+//     "console.log('[$1] $2');"
+//   ],
+//   "description": "Log output to console with custom brackets"
+// },
+
+// "Export named react hook": {
+//   "prefix": "erh",
+//   "body": [
+//     "export const $TM_FILENAME_BASE = () => {",
+//     "\t",
+//     "};",
+//     ""
+//   ]
+// }
+
 
 // https://code.visualstudio.com/docs/editing/userdefinedsnippets#_assign-keybindings-to-snippets
 
 /*
- * VSCode settings
+ * VSCode settings (Ctrl + ,)
+ *
+ * - font size
+ * - auto save (fun fact: https://marketplace.visualstudio.com/items?itemName=mcright.auto-save)
+ * - minimap
+ * 
  */
 
-// minimap
 
 /*
  * List of extensions
-
+ *
  * Must have
  * - project manager: https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
  * 

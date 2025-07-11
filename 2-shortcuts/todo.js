@@ -36,6 +36,9 @@ const testString = isValid ? 'test' : 'test2';
  *
  * - Markdown preview: "Open preview to the side"
  * - Format document: "Format document" (Shift + Alt + F)
+ * - @: "Go to Symbol in File" (Ctrl + Shift + O)
+ * - #: "Go to Symbol in Workspace" (Ctrl + T)
+ * - Sync scroll: "Toggle locked scrolling" (Ctrl + Alt + Shift + P)
  *
  */
 
