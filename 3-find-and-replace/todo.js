@@ -6,12 +6,12 @@
  * 
  */
 
-import { ReactComponent as AskFidoIcon } from '@/assets/icons/chatbot/askFido.svg';
-import { ReactComponent as MessageIcon } from '@/assets/icons/chatbot/message.svg';
-import { ReactComponent as SubmitIcon } from '@/assets/icons/chatbot/submitIcon.svg';
-import { ReactComponent as CheckIcon } from '@/assets/icons/check.svg';
-import { ReactComponent as PencilIcon } from '@/assets/images/pencil.svg';
-import AddCompanyIconSVG from './Assets/add_company.svg';
+import AskFidoIcon from '@/assets/icons/chatbot/askFido.svg';
+import MessageIcon from '@/assets/icons/chatbot/message.svg';
+import SubmitIcon from '@/assets/icons/chatbot/submitIcon.svg';
+import CheckIcon from '@/assets/icons/check.svg';
+import PencilIcon from '@/assets/images/pencil.svg';
+import AddCompanyIconSVG from './Assets/add_company.AddCompanyIcon.svg';
 import CompanyIconSVG from './Assets/company.svg';
 import projectIcon from './Assets/project.svg';
 import addProjectIcon from './Assets/add_project.svg';

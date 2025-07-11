@@ -10,7 +10,6 @@
  *
  */
 
-
 /*
  *
  * Window commands

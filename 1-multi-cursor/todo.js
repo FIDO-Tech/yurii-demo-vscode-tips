@@ -41,14 +41,15 @@ console.log({ mutate, myMutateResult });
  */
 
 const styles = styled.div`
-  width: 100rem;
-  height: 100rem;
-  border-radius: 0.5rem;
-  font-size: 1rem;
+  width: 1600px;
+  height: 1600px;
+  border-radius: 8px;
+  font-size: 16px;
 `;
 
 /*
- * Navigation (home, end) & Commands like "To Uppercase", "Sort lines" / Extension actions
+ * Navigation (home, end) & Commands like "To Uppercase", "Sort lines" / Extension actions 
+ * Shift + Alt + Click (add multi cursor across selection )
  */
 
 const translationEn = {
