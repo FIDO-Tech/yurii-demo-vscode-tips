@@ -4,7 +4,7 @@ A comprehensive collection of practical editor techniques, shortcuts, and workfl
 
 ## 📁 Project Structure
 
-The project is organized into 6 focused sections, each covering specific aspects of editor productivity:
+The project is organized into 6 focused sections, each covering specific aspects of editor productivity. **All tips and examples are contained in `index.js` files within each folder.**
 
 ### 1. **Multi-Cursor Techniques** (`1-multi-cursor/`)
 
