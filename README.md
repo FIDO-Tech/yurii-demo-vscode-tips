@@ -2,6 +2,20 @@
 
 A comprehensive collection of practical editor techniques, shortcuts, and workflow optimizations for VS Code and Cursor users. This project demonstrates essential productivity features that every developer should master.
 
+## 📖 How to Read the Files
+
+Each folder contains an `index.js` file with detailed tips, examples, and code snippets. Here's how to navigate the content:
+
+### File Structure
+- **`1-multi-cursor/index.js`** - Multi-cursor techniques and examples
+- **`2-shortcuts/index.js`** - Essential keyboard shortcuts
+- **`3-find-and-replace/index.js`** - Interesting regex use cases
+- **`4-git/index.js`** - Git integration tips
+- **`5-customizations/index.js`** - Editor customization and extensions
+- **`6-speedy-workflow/index.js`** - OS-level optimizations and aliases
+
+> Each tip includes a personal usage intensity rating to help you prioritize which techniques to learn first. Higher ratings indicate techniques used more frequently in daily development.
+
 ## 📁 Project Structure
 
 The project is organized into 6 focused sections, each covering specific aspects of editor productivity. **All tips and examples are contained in `index.js` files within each folder.**
