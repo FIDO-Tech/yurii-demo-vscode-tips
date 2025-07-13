@@ -1,5 +1,27 @@
+// TODO: add personal experience level (1-10)
+
+// 🟩 ⚠️ ❌ 🟩 🟧 🟥 🔶 🔸
+
 /*
- * Alt (option) + click (add or remove a line)
+ *
+ * For Mac users:
+ *
+ * - Replace "Ctrl" with "Command"
+ * - Replace "Alt" with "Option"
+ *
+ */
+
+/*
+ *
+ * ❗ Multi-cursor is the most used feature in modern editors.
+ *
+ */
+
+/*
+ * Alt + click (add or remove a line)
+ *
+ * 👆 Personal usage intensity: 10/10 🟩 (a lot, daily)
+ *
  */
 
 const mockProject = {
@@ -19,6 +41,9 @@ const mockProject3 = {
 
 /*
  * Ctrl (command) + d (rename variable)
+ *
+ * 👆 Personal usage intensity: 12/10 🟩 (a lot, daily)
+ *
  */
 
 const [mutate, { data: myMutateResult }] = useUpdateProjectMutation();
@@ -38,6 +63,9 @@ console.log({ mutate, myMutateResult });
 
 /*
  * Command palette (Ctrl + Shift + P) - "action per multi-cursor": example of transform rem to px or vice versa
+ *
+ * 👆 Personal usage intensity: 6/10 🟧 (often comes in handy, mostly with Commands like "To Uppercase", "Sort lines")
+ *
  */
 
 const styles = styled.div`
@@ -48,8 +76,14 @@ const styles = styled.div`
 `;
 
 /*
- * Navigation (home, end) & Commands like "To Uppercase", "Sort lines" / Extension actions 
+ * Navigation (home, end) & Commands like "To Uppercase", "Sort lines" / Extension actions
+ *
+ * 👆 Personal usage intensity: 9/10 🟩 (daily)
+ *
  * Shift + Alt + Click (add multi cursor across selection )
+ *
+ * 👆 Personal usage intensity: 8/10 🟩 (very often)
+ *
  */
 
 const translationEn = {

@@ -1,5 +1,9 @@
 /*
- * Custom snippets ("Configure snippets" in Command palette)
+ * 
+ * ▫️ Custom snippets ("Configure snippets" in Command palette)
+ *
+ * 👆 Personal usage intensity: 8/10 🟩 (very often)
+ *
  */
 
 // "Print to console JSON object": {
@@ -29,15 +33,28 @@
 //   ]
 // }
 
+/*
+ * 👆 Sample snippets:
+ *
+ * - "clgj" -> "console.log(JSON.stringify({$1}, null, 2));"
+ * - "clgb" -> "console.log('[$1] $2');"
+ * - "erh" -> "export const $TM_FILENAME_BASE = () => {}"
+ *
+ */
 
 // https://code.visualstudio.com/docs/editing/userdefinedsnippets#_assign-keybindings-to-snippets
 
 /*
- * VSCode settings (Ctrl + ,)
+ * ▫️ VSCode settings (Ctrl + ,)
  *
  * - font size
- * - auto save (fun fact: https://marketplace.visualstudio.com/items?itemName=mcright.auto-save)
  * - minimap
+ *  
+ * 👆 Personal usage intensity: N/A (should setup your own settings from the start)
+ * 
+ * - auto save settings (On Focus Change / On Window Change) // ? fun fact: https://marketplace.visualstudio.com/items?itemName=mcright.auto-save
+ *
+ * 👆 Personal usage intensity: 12/10 🟩 (daily)
  *
  */
 
@@ -46,19 +63,25 @@
  *
  * Must have
  * - project manager: https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
+ * 
+ * 👆 Personal usage intensity: 12/10 🟩 (daily)
  *
  * Should have
  * - keep case: https://marketplace.cursorapi.com/items/?itemName=Cardinal90.multi-cursor-case-preserve
  * - git lens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+ *
+ * 👆 Personal usage intensity: 11/10 🟩 (daily)
  *
  * Might as well have
  * - better comments: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
  * - peacock: https://marketplace.cursorapi.com/items/?itemName=johnpapa.vscode-peacock
  * - code screenshot
  * - emoji (native alternative)
- *
+ * 
  */
 
 /*
- * // ? Final note: vscode is highly customizable (UI, hotkeys, even layout) - you should make it your own and suit your workflow and learn the tool
+ *
+ * ‼️ Final note: vscode is highly customizable (UI, hotkeys, even layout) - you should make it your own to suit your workflow. You should always strive to master the tool you are using.
+ *
  */
