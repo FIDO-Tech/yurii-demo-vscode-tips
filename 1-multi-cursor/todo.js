@@ -1,7 +1,3 @@
-// TODO: add personal experience level (1-10)
-
-// 🟩 ⚠️ ❌ 🟩 🟧 🟥 🔶 🔸
-
 /*
  *
  * For Mac users:
